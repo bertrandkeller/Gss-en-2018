@@ -15,13 +15,13 @@ Pas de charge inutile sur une BDD (Recherche de failles par des crackers), *port
 ---
 
 <div>
-<img src="/images/company.jpg" class="center-image" />
+<img src="/Gss-en-2018/imagescompany.jpg" class="center-image" />
 </div>
 
 ---
 
 <div>
-<img src="/images/staticgen.png" class="center-image" />
+<img src="/Gss-en-2018/imagesstaticgen.png" class="center-image" />
 </div>
 
 ---
@@ -46,13 +46,13 @@ Let's go static !
 ---
 
 <div>
-<img src="/images/static-site-JAMstack.png"  class="center-image" />
+<img src="/Gss-en-2018/imagesstatic-site-JAMstack.png"  class="center-image" />
 </div>
 
 ---
 
 <div>
-<img src="/images/static.png" class="center-image" />
+<img src="/Gss-en-2018/imagesstatic.png" class="center-image" />
 </div>
 
 ---
@@ -174,7 +174,7 @@ Use “prerendered app” over “static site” because people don’t necessar
 ---
 
 <div>
-<img src="/images/webriq-cms-for-the-jam-stack.jpg" class="center-image" />
+<img src="/Gss-en-2018/imageswebriq-cms-for-the-jam-stack.jpg" class="center-image" />
 </div>
 
 ---
@@ -192,7 +192,7 @@ Use “prerendered app” over “static site” because people don’t necessar
 ---
 
 <div>
-<img src="/images/gridsome-git-workflow.png" class="center-image" />
+<img src="/Gss-en-2018/imagesgridsome-git-workflow.png" class="center-image" />
 </div>
 
 ---
@@ -210,6 +210,7 @@ https://www.storyblok.com
 https://apostrophecms.org/
 https://www.canner.io/
 https://www.vapid.com/
+https://www.takeshape.io/
 
 ---
 
@@ -218,13 +219,13 @@ https://www.vapid.com/
 ---
 
 <div>
-<img src="/images/gatsby.png" class="center-image" />
+<img src="/Gss-en-2018/imagesgatsby.png" class="center-image" />
 </div>
 
 ---
 
 <div>
-<img src="/images/gridsome-graphql.png" class="center-image" />
+<img src="/Gss-en-2018/imagesgridsome-graphql.png" class="center-image" />
 </div>
 
 ---
@@ -235,7 +236,7 @@ https://www.vapid.com/
 ---
 
 <div>
-<img src="/images/netlify-lambda.png" class="center-image" />
+<img src="/Gss-en-2018/imagesnetlify-lambda.png" class="center-image" />
 </div>
 
 ---
@@ -245,11 +246,11 @@ https://www.vapid.com/
 ---
 
 <div>
-<img src="/images/netlify-brain.png" class="center-image" />
+<img src="/Gss-en-2018/imagesnetlify-brain.png" class="center-image" />
 </div>
 
 ---
 
 <div>
-<img src="/images/webapp.jpg" class="center-image" />
+<img src="/Gss-en-2018/imageswebapp.jpg" class="center-image" />
 </div>
